@@ -3,8 +3,8 @@ from requests.auth import HTTPBasicAuth
 import json
 
 TWIITER_API = 'https://api.twitter.com'
-CONSUMER_KEY = 'Nblj0MJTmnVpWxfQcfcGogs9E'
-CONSUMER_SECRET = 'XrlTAjMku85Wz4uw0IDxw0DSIUGkrdgfK1MwBClIXRRIuQLmU9'
+CONSUMER_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+CONSUMER_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 MAX_TWEETS_PER_PAGE = 100
 
 def __get_access_token():
